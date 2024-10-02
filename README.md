@@ -1,7 +1,6 @@
 Meu nome é João Paulo Pinheiro.
 
 ![Descrição do GIF](https://media.giphy.com/media/JQofaMv4cIfh7YZMGv/giphy.gif)
-
 # Neymar-Jr
 
 
