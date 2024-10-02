@@ -1,8 +1,6 @@
-Meu nome é João Paulo Pinheiro.
+Opa! Meu nome é João Paulo Pinheiro. Estou aprendendo a mexer com sistema de programação. 
 
-![Descrição do GIF](https://media.giphy.com/media/JQofaMv4cIfh7YZMGv/giphy.gif)
-# Neymar-Jr
+# Neymar Jr
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTl0YjlkMnY4ajh3aWNqMDRicmk3a2V3bDNoaGZqeWphbXR1YXdxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fYShkq3n7c7LeQxodc/giphy.gif)
 
-
-Estou aprendendo a mexer com sistema de programação.
-O nome do meu repositório é Neymar Jr.
+E irei usar este repositório para colocar meus projetos
